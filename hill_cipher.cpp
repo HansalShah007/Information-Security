@@ -4,7 +4,7 @@
 #include <map>
 using namespace std;
 
-// Hansal Shah - 19BCP043 (Hill Cipher)
+// Author: Hansal Shah
 
 
 void display_matrix(int matrix[3][3]){
