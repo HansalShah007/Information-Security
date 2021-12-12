@@ -9,7 +9,7 @@
 using namespace std;
 using namespace CryptoPP;
 
-// Hansal Shah - 19BCP043 (Using Crypto++ library)
+// Author: Hansal Shah
 
 Integer n("0xbeaadb3d839f3b5f"), e("0x11"), d("0x21a5ae37b9959db9");
 RSA::PrivateKey privKey;
