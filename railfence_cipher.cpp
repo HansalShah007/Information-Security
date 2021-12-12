@@ -3,7 +3,7 @@
 #include <map>
 using namespace std;
 
-// Hansal Shah - 19BCP043 (Rail Fence Cipher)
+// Author: Hansal Shah
 
 string encrypt_message(string s, int numRows) {
     if(numRows==1){
