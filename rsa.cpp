@@ -4,6 +4,8 @@
 #define lli long long int
 using namespace std;
 
+// Author: Hansal Shah
+
 lli exp_mod(lli n, lli e, lli m){
     if(e==0)
         return 1;
