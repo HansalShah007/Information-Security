@@ -4,7 +4,7 @@
 #include <map>
 using namespace std;
 
-// Hansal Shah - 19BCP043 (6x6 Playfair Cipher)
+// Author: Hansal Shah
 
 string encrypt_message(char** matrix, map<char, vector<int>>& positions, string s){
     string final_str = "";
