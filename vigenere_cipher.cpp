@@ -4,7 +4,7 @@
 #include <map>
 using namespace std;
 
-// Hansal Shah - 19BCP043 (Vigenere Cipher)
+// Author: Hansal Shah
 
 string encrypt_message(vector <int> key, string message){
     int key_length = key.size();
