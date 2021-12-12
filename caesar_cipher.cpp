@@ -3,7 +3,7 @@
 #include <map>
 using namespace std;
 
-// Hansal Shah - 19BCP043 (Caesar Cipher)
+// Author: Hansal Shah
 
 string convert(string s, map <char,char> mapping_capital, map <char,char> mapping_small){
     string message = "";
