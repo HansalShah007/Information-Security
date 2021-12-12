@@ -4,7 +4,7 @@
 #include <vector>
 using namespace std;
 
-// Hansal Shah - 19BCP043 (Columnar Transposition Cipher)
+// Author: Hansal Shah
 
 string encrypt_message(char** matrix, int rows, map <int,int> key){
     string encrypted_message = "";
